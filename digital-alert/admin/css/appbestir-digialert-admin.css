@@ -1,0 +1,20 @@
+/**
+ * All of the CSS for your admin-specific functionality should be
+ * included in this file.
+ */
+
+.widefat {width: auto;}
+.ss-list-width {min-width:10%}
+.ss-form-width {width:100%}
+.ss-th-width {width:25%}
+.ss-field-width {width:75%}
+.dgalrt-field-width {width:45%}
+
+.centered{
+    margin: 0 auto;
+}
+
+.col-centered{
+    float: none;
+    margin: 0 auto;
+}
